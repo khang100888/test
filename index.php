@@ -20,7 +20,7 @@ if(isset($_POST["submit"]))
 			header('location: Trangchu.php');
 		}
 		else{
-			echo '<center>Tài khoản bạn không tồn tại</center>';
+			echo '<center>Nguyen pham cong Khang</center>';
 		}
 	}
 		
